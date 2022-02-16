@@ -1,0 +1,51 @@
+*{
+   background-color: white;
+}
+
+.part2{
+    border: 2px transparent;
+    width:23%;
+    margin: auto;
+    padding: 80px;
+}
+.part1{
+    border: 2px transparent;
+    width:23%;
+    
+    margin: auto;
+    
+}
+h3,h5{
+    padding-right: 10px;
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+}
+.part2 img{
+    width:190px;
+    height: 80px;
+}
+.part1 img{
+    width:190px;
+    height: 80px;
+}
+p{
+    font-size: 20px;
+    width:70%;
+}
+.main{
+    margin: 250px 90px;
+    
+}
+.whole{
+    display:flex;
+    
+}
+.row
+{
+    display:flex;
+    flex-wrap:wrap;
+    margin: auto;
+    float: left;
+}
